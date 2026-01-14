@@ -42,6 +42,8 @@ This project was built as part of the **Full Stack Development Internship Assign
 ## Demo video :- 
 https://drive.google.com/file/d/1F7HlMO6M9KEsEbLiIVATIcBahvOaPPcH/view?usp=sharing
 
+---
+
 ## ⚙️ Environment Variables
 
 Create a `.env` file in both **backend** and **frontend** directories using the provided `.env.example` files.
