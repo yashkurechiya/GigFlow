@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@layer components {
+  .input {
+    @apply border border-gray-300 p-2 w-full rounded mb-3;
+  }
+
+  .btn {
+    @apply bg-black text-white px-4 py-2 rounded w-full;
+  }
+}
